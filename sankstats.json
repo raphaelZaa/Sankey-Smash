@@ -1,0 +1,1272 @@
+{
+  "nodes": [
+    {
+      "node": "wario",
+      "name": "wario"
+    },
+    {
+      "node": "zero-suit-samus",
+      "name": "zero-suit-samus"
+    },
+    {
+      "node": "duck-hunt",
+      "name": "duck-hunt"
+    },
+    {
+      "node": "joker",
+      "name": "joker"
+    },
+    {
+      "node": "olimar",
+      "name": "olimar"
+    },
+    {
+      "node": "snake",
+      "name": "snake"
+    },
+    {
+      "node": "peach",
+      "name": "peach"
+    },
+    {
+      "node": "rosalina-and-luma",
+      "name": "rosalina-and-luma"
+    },
+    {
+      "node": "cloud",
+      "name": "cloud"
+    },
+    {
+      "node": "palutena",
+      "name": "palutena"
+    },
+    {
+      "node": "bowser-jr",
+      "name": "bowser-jr"
+    },
+    {
+      "node": "luigi",
+      "name": "luigi"
+    },
+    {
+      "node": "mr-game-and-watch",
+      "name": "mr-game-and-watch"
+    },
+    {
+      "node": "ness",
+      "name": "ness"
+    },
+    {
+      "node": "mega-man",
+      "name": "mega-man"
+    },
+    {
+      "node": "richter",
+      "name": "richter"
+    },
+    {
+      "node": "ganondorf",
+      "name": "ganondorf"
+    },
+    {
+      "node": "ike",
+      "name": "ike"
+    },
+    {
+      "node": "pichu",
+      "name": "pichu"
+    },
+    {
+      "node": "wolf",
+      "name": "wolf"
+    },
+    {
+      "node": "pokemon-trainer",
+      "name": "pokemon-trainer"
+    },
+    {
+      "node": "rob",
+      "name": "rob"
+    },
+    {
+      "node": "pac-man",
+      "name": "pac-man"
+    },
+    {
+      "node": "pit",
+      "name": "pit"
+    },
+    {
+      "node": "mario",
+      "name": "mario"
+    },
+    {
+      "node": "meta-knight",
+      "name": "meta-knight"
+    },
+    {
+      "node": "pikachu",
+      "name": "pikachu"
+    },
+    {
+      "node": "chrom",
+      "name": "chrom"
+    },
+    {
+      "node": "lucina",
+      "name": "lucina"
+    },
+    {
+      "node": "inkling",
+      "name": "inkling"
+    },
+    {
+      "node": "fox",
+      "name": "fox"
+    },
+    {
+      "node": "toon-link",
+      "name": "toon-link"
+    },
+    {
+      "node": "simon",
+      "name": "simon"
+    },
+    {
+      "node": "samus",
+      "name": "samus"
+    },
+    {
+      "node": "roy",
+      "name": "roy"
+    },
+    {
+      "node": "king-dedede",
+      "name": "king-dedede"
+    },
+    {
+      "node": "bowser",
+      "name": "bowser"
+    },
+    {
+      "node": "ken",
+      "name": "ken"
+    },
+    {
+      "node": "young-link",
+      "name": "young-link"
+    },
+    {
+      "node": "ridley",
+      "name": "ridley"
+    },
+    {
+      "node": "greninja",
+      "name": "greninja"
+    },
+    {
+      "node": "diddy-kong",
+      "name": "diddy-kong"
+    },
+    {
+      "node": "dark-samus",
+      "name": "dark-samus"
+    },
+    {
+      "node": "lucario",
+      "name": "lucario"
+    },
+    {
+      "node": "shulk",
+      "name": "shulk"
+    },
+    {
+      "node": "bayonetta",
+      "name": "bayonetta"
+    },
+    {
+      "node": "sonic",
+      "name": "sonic"
+    },
+    {
+      "node": "yoshi",
+      "name": "yoshi"
+    },
+    {
+      "node": "wii-fit-trainer",
+      "name": "wii-fit-trainer"
+    },
+    {
+      "node": "captain-falcon",
+      "name": "captain-falcon"
+    },
+    {
+      "node": "link",
+      "name": "link"
+    },
+    {
+      "node": "robin",
+      "name": "robin"
+    },
+    {
+      "node": "piranha-plant",
+      "name": "piranha-plant"
+    },
+    {
+      "node": "donkey-kong",
+      "name": "donkey-kong"
+    },
+    {
+      "node": "incineroar",
+      "name": "incineroar"
+    },
+    {
+      "node": "daisy",
+      "name": "daisy"
+    },
+    {
+      "node": "marth",
+      "name": "marth"
+    },
+    {
+      "node": "king-k-rool",
+      "name": "king-k-rool"
+    },
+    {
+      "node": "falco",
+      "name": "falco"
+    },
+    {
+      "node": "lucas",
+      "name": "lucas"
+    },
+    {
+      "node": "sheik",
+      "name": "sheik"
+    },
+    {
+      "node": "zelda",
+      "name": "zelda"
+    },
+    {
+      "node": "mii-swordfighter",
+      "name": "mii-swordfighter"
+    },
+    {
+      "node": "villager",
+      "name": "villager"
+    },
+    {
+      "node": "isabelle",
+      "name": "isabelle"
+    },
+    {
+      "node": "mewtwo",
+      "name": "mewtwo"
+    },
+    {
+      "node": "Total games",
+      "name": "Total games"
+    },
+    {
+      "node": "Wins",
+      "name": "Wins"
+    },
+    {
+      "node": "Losses",
+      "name": "Losses"
+    }
+  ],
+  "links": [
+    {
+      "source": "Total games",
+      "target": "wario",
+      "value": 1159
+    },
+    {
+      "source": "wario",
+      "target": "Wins",
+      "value": 689
+    },
+    {
+      "source": "wario",
+      "target": "Losses",
+      "value": 470
+    },
+    {
+      "source": "Total games",
+      "target": "zero-suit-samus",
+      "value": 2549
+    },
+    {
+      "source": "zero-suit-samus",
+      "target": "Wins",
+      "value": 1486
+    },
+    {
+      "source": "zero-suit-samus",
+      "target": "Losses",
+      "value": 1063
+    },
+    {
+      "source": "Total games",
+      "target": "duck-hunt",
+      "value": 517
+    },
+    {
+      "source": "duck-hunt",
+      "target": "Wins",
+      "value": 300
+    },
+    {
+      "source": "duck-hunt",
+      "target": "Losses",
+      "value": 217
+    },
+    {
+      "source": "Total games",
+      "target": "joker",
+      "value": 1754
+    },
+    {
+      "source": "joker",
+      "target": "Wins",
+      "value": 996
+    },
+    {
+      "source": "joker",
+      "target": "Losses",
+      "value": 758
+    },
+    {
+      "source": "Total games",
+      "target": "olimar",
+      "value": 1367
+    },
+    {
+      "source": "olimar",
+      "target": "Wins",
+      "value": 764
+    },
+    {
+      "source": "olimar",
+      "target": "Losses",
+      "value": 603
+    },
+    {
+      "source": "Total games",
+      "target": "snake",
+      "value": 2645
+    },
+    {
+      "source": "snake",
+      "target": "Wins",
+      "value": 1459
+    },
+    {
+      "source": "snake",
+      "target": "Losses",
+      "value": 1186
+    },
+    {
+      "source": "Total games",
+      "target": "peach",
+      "value": 1501
+    },
+    {
+      "source": "peach",
+      "target": "Wins",
+      "value": 806
+    },
+    {
+      "source": "peach",
+      "target": "Losses",
+      "value": 695
+    },
+    {
+      "source": "Total games",
+      "target": "rosalina-and-luma",
+      "value": 1085
+    },
+    {
+      "source": "rosalina-and-luma",
+      "target": "Wins",
+      "value": 580
+    },
+    {
+      "source": "rosalina-and-luma",
+      "target": "Losses",
+      "value": 505
+    },
+    {
+      "source": "Total games",
+      "target": "cloud",
+      "value": 2024
+    },
+    {
+      "source": "cloud",
+      "target": "Wins",
+      "value": 1080
+    },
+    {
+      "source": "cloud",
+      "target": "Losses",
+      "value": 944
+    },
+    {
+      "source": "Total games",
+      "target": "palutena",
+      "value": 2879
+    },
+    {
+      "source": "palutena",
+      "target": "Wins",
+      "value": 1532
+    },
+    {
+      "source": "palutena",
+      "target": "Losses",
+      "value": 1347
+    },
+    {
+      "source": "Total games",
+      "target": "bowser-jr",
+      "value": 348
+    },
+    {
+      "source": "bowser-jr",
+      "target": "Wins",
+      "value": 185
+    },
+    {
+      "source": "bowser-jr",
+      "target": "Losses",
+      "value": 163
+    },
+    {
+      "source": "Total games",
+      "target": "luigi",
+      "value": 558
+    },
+    {
+      "source": "luigi",
+      "target": "Wins",
+      "value": 297
+    },
+    {
+      "source": "luigi",
+      "target": "Losses",
+      "value": 261
+    },
+    {
+      "source": "Total games",
+      "target": "mr-game-and-watch",
+      "value": 746
+    },
+    {
+      "source": "mr-game-and-watch",
+      "target": "Wins",
+      "value": 396
+    },
+    {
+      "source": "mr-game-and-watch",
+      "target": "Losses",
+      "value": 350
+    },
+    {
+      "source": "Total games",
+      "target": "ness",
+      "value": 1716
+    },
+    {
+      "source": "ness",
+      "target": "Wins",
+      "value": 906
+    },
+    {
+      "source": "ness",
+      "target": "Losses",
+      "value": 810
+    },
+    {
+      "source": "Total games",
+      "target": "mega-man",
+      "value": 799
+    },
+    {
+      "source": "mega-man",
+      "target": "Wins",
+      "value": 420
+    },
+    {
+      "source": "mega-man",
+      "target": "Losses",
+      "value": 379
+    },
+    {
+      "source": "Total games",
+      "target": "richter",
+      "value": 481
+    },
+    {
+      "source": "richter",
+      "target": "Wins",
+      "value": 251
+    },
+    {
+      "source": "richter",
+      "target": "Losses",
+      "value": 230
+    },
+    {
+      "source": "Total games",
+      "target": "ganondorf",
+      "value": 657
+    },
+    {
+      "source": "ganondorf",
+      "target": "Wins",
+      "value": 340
+    },
+    {
+      "source": "ganondorf",
+      "target": "Losses",
+      "value": 317
+    },
+    {
+      "source": "Total games",
+      "target": "ike",
+      "value": 984
+    },
+    {
+      "source": "ike",
+      "target": "Wins",
+      "value": 510
+    },
+    {
+      "source": "ike",
+      "target": "Losses",
+      "value": 474
+    },
+    {
+      "source": "Total games",
+      "target": "pichu",
+      "value": 1451
+    },
+    {
+      "source": "pichu",
+      "target": "Wins",
+      "value": 747
+    },
+    {
+      "source": "pichu",
+      "target": "Losses",
+      "value": 704
+    },
+    {
+      "source": "Total games",
+      "target": "wolf",
+      "value": 2760
+    },
+    {
+      "source": "wolf",
+      "target": "Wins",
+      "value": 1419
+    },
+    {
+      "source": "wolf",
+      "target": "Losses",
+      "value": 1341
+    },
+    {
+      "source": "Total games",
+      "target": "pokemon-trainer",
+      "value": 3031
+    },
+    {
+      "source": "pokemon-trainer",
+      "target": "Wins",
+      "value": 1548
+    },
+    {
+      "source": "pokemon-trainer",
+      "target": "Losses",
+      "value": 1483
+    },
+    {
+      "source": "Total games",
+      "target": "rob",
+      "value": 1559
+    },
+    {
+      "source": "rob",
+      "target": "Wins",
+      "value": 792
+    },
+    {
+      "source": "rob",
+      "target": "Losses",
+      "value": 767
+    },
+    {
+      "source": "Total games",
+      "target": "pac-man",
+      "value": 649
+    },
+    {
+      "source": "pac-man",
+      "target": "Wins",
+      "value": 330
+    },
+    {
+      "source": "pac-man",
+      "target": "Losses",
+      "value": 319
+    },
+    {
+      "source": "Total games",
+      "target": "pit",
+      "value": 299
+    },
+    {
+      "source": "pit",
+      "target": "Wins",
+      "value": 150
+    },
+    {
+      "source": "pit",
+      "target": "Losses",
+      "value": 149
+    },
+    {
+      "source": "Total games",
+      "target": "mario",
+      "value": 1470
+    },
+    {
+      "source": "mario",
+      "target": "Wins",
+      "value": 736
+    },
+    {
+      "source": "mario",
+      "target": "Losses",
+      "value": 734
+    },
+    {
+      "source": "Total games",
+      "target": "meta-knight",
+      "value": 668
+    },
+    {
+      "source": "meta-knight",
+      "target": "Wins",
+      "value": 333
+    },
+    {
+      "source": "meta-knight",
+      "target": "Losses",
+      "value": 335
+    },
+    {
+      "source": "Total games",
+      "target": "pikachu",
+      "value": 996
+    },
+    {
+      "source": "pikachu",
+      "target": "Wins",
+      "value": 496
+    },
+    {
+      "source": "pikachu",
+      "target": "Losses",
+      "value": 500
+    },
+    {
+      "source": "Total games",
+      "target": "chrom",
+      "value": 1187
+    },
+    {
+      "source": "chrom",
+      "target": "Wins",
+      "value": 590
+    },
+    {
+      "source": "chrom",
+      "target": "Losses",
+      "value": 597
+    },
+    {
+      "source": "Total games",
+      "target": "lucina",
+      "value": 1667
+    },
+    {
+      "source": "lucina",
+      "target": "Wins",
+      "value": 826
+    },
+    {
+      "source": "lucina",
+      "target": "Losses",
+      "value": 841
+    },
+    {
+      "source": "Total games",
+      "target": "inkling",
+      "value": 2405
+    },
+    {
+      "source": "inkling",
+      "target": "Wins",
+      "value": 1192
+    },
+    {
+      "source": "inkling",
+      "target": "Losses",
+      "value": 1213
+    },
+    {
+      "source": "Total games",
+      "target": "fox",
+      "value": 2100
+    },
+    {
+      "source": "fox",
+      "target": "Wins",
+      "value": 1042
+    },
+    {
+      "source": "fox",
+      "target": "Losses",
+      "value": 1058
+    },
+    {
+      "source": "Total games",
+      "target": "toon-link",
+      "value": 499
+    },
+    {
+      "source": "toon-link",
+      "target": "Wins",
+      "value": 247
+    },
+    {
+      "source": "toon-link",
+      "target": "Losses",
+      "value": 252
+    },
+    {
+      "source": "Total games",
+      "target": "simon",
+      "value": 350
+    },
+    {
+      "source": "simon",
+      "target": "Wins",
+      "value": 172
+    },
+    {
+      "source": "simon",
+      "target": "Losses",
+      "value": 178
+    },
+    {
+      "source": "Total games",
+      "target": "samus",
+      "value": 429
+    },
+    {
+      "source": "samus",
+      "target": "Wins",
+      "value": 210
+    },
+    {
+      "source": "samus",
+      "target": "Losses",
+      "value": 219
+    },
+    {
+      "source": "Total games",
+      "target": "roy",
+      "value": 1123
+    },
+    {
+      "source": "roy",
+      "target": "Wins",
+      "value": 550
+    },
+    {
+      "source": "roy",
+      "target": "Losses",
+      "value": 573
+    },
+    {
+      "source": "Total games",
+      "target": "king-dedede",
+      "value": 643
+    },
+    {
+      "source": "king-dedede",
+      "target": "Wins",
+      "value": 314
+    },
+    {
+      "source": "king-dedede",
+      "target": "Losses",
+      "value": 329
+    },
+    {
+      "source": "Total games",
+      "target": "bowser",
+      "value": 1167
+    },
+    {
+      "source": "bowser",
+      "target": "Wins",
+      "value": 566
+    },
+    {
+      "source": "bowser",
+      "target": "Losses",
+      "value": 601
+    },
+    {
+      "source": "Total games",
+      "target": "ken",
+      "value": 397
+    },
+    {
+      "source": "ken",
+      "target": "Wins",
+      "value": 192
+    },
+    {
+      "source": "ken",
+      "target": "Losses",
+      "value": 205
+    },
+    {
+      "source": "Total games",
+      "target": "young-link",
+      "value": 927
+    },
+    {
+      "source": "young-link",
+      "target": "Wins",
+      "value": 446
+    },
+    {
+      "source": "young-link",
+      "target": "Losses",
+      "value": 481
+    },
+    {
+      "source": "Total games",
+      "target": "ridley",
+      "value": 614
+    },
+    {
+      "source": "ridley",
+      "target": "Wins",
+      "value": 295
+    },
+    {
+      "source": "ridley",
+      "target": "Losses",
+      "value": 319
+    },
+    {
+      "source": "Total games",
+      "target": "greninja",
+      "value": 1349
+    },
+    {
+      "source": "greninja",
+      "target": "Wins",
+      "value": 646
+    },
+    {
+      "source": "greninja",
+      "target": "Losses",
+      "value": 703
+    },
+    {
+      "source": "Total games",
+      "target": "diddy-kong",
+      "value": 483
+    },
+    {
+      "source": "diddy-kong",
+      "target": "Wins",
+      "value": 231
+    },
+    {
+      "source": "diddy-kong",
+      "target": "Losses",
+      "value": 252
+    },
+    {
+      "source": "Total games",
+      "target": "dark-samus",
+      "value": 363
+    },
+    {
+      "source": "dark-samus",
+      "target": "Wins",
+      "value": 171
+    },
+    {
+      "source": "dark-samus",
+      "target": "Losses",
+      "value": 192
+    },
+    {
+      "source": "Total games",
+      "target": "lucario",
+      "value": 278
+    },
+    {
+      "source": "lucario",
+      "target": "Wins",
+      "value": 131
+    },
+    {
+      "source": "lucario",
+      "target": "Losses",
+      "value": 147
+    },
+    {
+      "source": "Total games",
+      "target": "shulk",
+      "value": 938
+    },
+    {
+      "source": "shulk",
+      "target": "Wins",
+      "value": 442
+    },
+    {
+      "source": "shulk",
+      "target": "Losses",
+      "value": 496
+    },
+    {
+      "source": "Total games",
+      "target": "bayonetta",
+      "value": 463
+    },
+    {
+      "source": "bayonetta",
+      "target": "Wins",
+      "value": 217
+    },
+    {
+      "source": "bayonetta",
+      "target": "Losses",
+      "value": 246
+    },
+    {
+      "source": "Total games",
+      "target": "sonic",
+      "value": 745
+    },
+    {
+      "source": "sonic",
+      "target": "Wins",
+      "value": 349
+    },
+    {
+      "source": "sonic",
+      "target": "Losses",
+      "value": 396
+    },
+    {
+      "source": "Total games",
+      "target": "yoshi",
+      "value": 1145
+    },
+    {
+      "source": "yoshi",
+      "target": "Wins",
+      "value": 532
+    },
+    {
+      "source": "yoshi",
+      "target": "Losses",
+      "value": 613
+    },
+    {
+      "source": "Total games",
+      "target": "wii-fit-trainer",
+      "value": 460
+    },
+    {
+      "source": "wii-fit-trainer",
+      "target": "Wins",
+      "value": 210
+    },
+    {
+      "source": "wii-fit-trainer",
+      "target": "Losses",
+      "value": 250
+    },
+    {
+      "source": "Total games",
+      "target": "captain-falcon",
+      "value": 787
+    },
+    {
+      "source": "captain-falcon",
+      "target": "Wins",
+      "value": 358
+    },
+    {
+      "source": "captain-falcon",
+      "target": "Losses",
+      "value": 429
+    },
+    {
+      "source": "Total games",
+      "target": "link",
+      "value": 965
+    },
+    {
+      "source": "link",
+      "target": "Wins",
+      "value": 438
+    },
+    {
+      "source": "link",
+      "target": "Losses",
+      "value": 527
+    },
+    {
+      "source": "Total games",
+      "target": "robin",
+      "value": 447
+    },
+    {
+      "source": "robin",
+      "target": "Wins",
+      "value": 202
+    },
+    {
+      "source": "robin",
+      "target": "Losses",
+      "value": 245
+    },
+    {
+      "source": "Total games",
+      "target": "piranha-plant",
+      "value": 249
+    },
+    {
+      "source": "piranha-plant",
+      "target": "Wins",
+      "value": 112
+    },
+    {
+      "source": "piranha-plant",
+      "target": "Losses",
+      "value": 137
+    },
+    {
+      "source": "Total games",
+      "target": "donkey-kong",
+      "value": 858
+    },
+    {
+      "source": "donkey-kong",
+      "target": "Wins",
+      "value": 385
+    },
+    {
+      "source": "donkey-kong",
+      "target": "Losses",
+      "value": 473
+    },
+    {
+      "source": "Total games",
+      "target": "incineroar",
+      "value": 551
+    },
+    {
+      "source": "incineroar",
+      "target": "Wins",
+      "value": 247
+    },
+    {
+      "source": "incineroar",
+      "target": "Losses",
+      "value": 304
+    },
+    {
+      "source": "Total games",
+      "target": "daisy",
+      "value": 421
+    },
+    {
+      "source": "daisy",
+      "target": "Wins",
+      "value": 187
+    },
+    {
+      "source": "daisy",
+      "target": "Losses",
+      "value": 234
+    },
+    {
+      "source": "Total games",
+      "target": "marth",
+      "value": 354
+    },
+    {
+      "source": "marth",
+      "target": "Wins",
+      "value": 157
+    },
+    {
+      "source": "marth",
+      "target": "Losses",
+      "value": 197
+    },
+    {
+      "source": "Total games",
+      "target": "king-k-rool",
+      "value": 404
+    },
+    {
+      "source": "king-k-rool",
+      "target": "Wins",
+      "value": 176
+    },
+    {
+      "source": "king-k-rool",
+      "target": "Losses",
+      "value": 228
+    },
+    {
+      "source": "Total games",
+      "target": "falco",
+      "value": 659
+    },
+    {
+      "source": "falco",
+      "target": "Wins",
+      "value": 283
+    },
+    {
+      "source": "falco",
+      "target": "Losses",
+      "value": 376
+    },
+    {
+      "source": "Total games",
+      "target": "lucas",
+      "value": 413
+    },
+    {
+      "source": "lucas",
+      "target": "Wins",
+      "value": 174
+    },
+    {
+      "source": "lucas",
+      "target": "Losses",
+      "value": 239
+    },
+    {
+      "source": "Total games",
+      "target": "sheik",
+      "value": 261
+    },
+    {
+      "source": "sheik",
+      "target": "Wins",
+      "value": 108
+    },
+    {
+      "source": "sheik",
+      "target": "Losses",
+      "value": 153
+    },
+    {
+      "source": "Total games",
+      "target": "zelda",
+      "value": 626
+    },
+    {
+      "source": "zelda",
+      "target": "Wins",
+      "value": 255
+    },
+    {
+      "source": "zelda",
+      "target": "Losses",
+      "value": 371
+    },
+    {
+      "source": "Total games",
+      "target": "mii-swordfighter",
+      "value": 202
+    },
+    {
+      "source": "mii-swordfighter",
+      "target": "Wins",
+      "value": 82
+    },
+    {
+      "source": "mii-swordfighter",
+      "target": "Losses",
+      "value": 120
+    },
+    {
+      "source": "Total games",
+      "target": "villager",
+      "value": 326
+    },
+    {
+      "source": "villager",
+      "target": "Wins",
+      "value": 132
+    },
+    {
+      "source": "villager",
+      "target": "Losses",
+      "value": 194
+    },
+    {
+      "source": "Total games",
+      "target": "isabelle",
+      "value": 275
+    },
+    {
+      "source": "isabelle",
+      "target": "Wins",
+      "value": 107
+    },
+    {
+      "source": "isabelle",
+      "target": "Losses",
+      "value": 168
+    },
+    {
+      "source": "Total games",
+      "target": "mewtwo",
+      "value": 227
+    },
+    {
+      "source": "mewtwo",
+      "target": "Wins",
+      "value": 81
+    },
+    {
+      "source": "mewtwo",
+      "target": "Losses",
+      "value": 146
+    }
+  ]
+}
