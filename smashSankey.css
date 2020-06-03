@@ -1,0 +1,26 @@
+/*----------------------------------------------------------------------------
+File: smashSankey.css
+Contructs a Sankey graph of winrates for characters in Super Smash Bros Ultimates using data scraped from https://ssbworld.com/
+
+Credit to Gerardo Furtado for his project "Sankey Diagram with v5" which I heavily refered to when making this graph: https://bl.ocks.org/GerardoFurtado/ff2096ed1aa29bb74fa151a39e9c1387
+----------------------------------------------------------------------------- */
+.node rect {
+  cursor: move;
+  fill-opacity: .9;
+  shape-rendering: crispEdges;
+}
+
+.node text {
+  pointer-events: none;
+  text-shadow: 0 1px 0 #fff;
+}
+
+.link {
+  fill: none;
+  stroke: #000;
+  stroke-opacity: .2;
+}
+
+.link:hover {
+  stroke-opacity: .5;
+}
